@@ -1,0 +1,9 @@
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\bin\Debug\Test_Average.exe.config
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\obj\Debug\Test_Average.csprojResolveAssemblyReference.cache
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\obj\Debug\Test_Average.Form1.resources
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\obj\Debug\Test_Average.Properties.Resources.resources
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\obj\Debug\Test_Average.csproj.GenerateResource.Cache
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\bin\Debug\Test_Average.exe
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\bin\Debug\Test_Average.pdb
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\obj\Debug\Test_Average.exe
+c:\users\ian\documents\visual studio 2013\Projects\Test_Average\Test_Average\obj\Debug\Test_Average.pdb
